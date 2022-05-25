@@ -1,0 +1,23 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lucian1625/second-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lucian1625/second-test/issues"
+  },
+  "homepage": "https://github.com/Lucian1625/second-test#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.0.24"
+  }
+}
